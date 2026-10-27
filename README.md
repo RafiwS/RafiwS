@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=ANANDA%20WIDI%20ALRAFI&fontSize=38&fontAlignY=42&desc=Information%20Technology%20%7C%20Data%20Analytics%20%7C%20Full%20Stack%20Development&descAlignY=64&descFontSize=15&stroke=30363d&strokeWidth=2" width="100%" />
+  <h1 align="center">ANANDA WIDI ALRAFI</h1>
 
   <p align="center">
     <a href="https://linkedin.com/in/anandawidialrafi">
@@ -47,18 +47,20 @@ Combines rigorous computational foundations—spanning relational database theor
   <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=postman&logoColor=white" alt="REST APIs" />
 </p>
 
-#### Machine Learning & Applied AI Architecture
+#### Machine Learning, AI & Research Environments
 <p align="left">
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
-#### Business Intelligence & Analytics Platforms
+#### Business Intelligence & Data Visualization
 <p align="left">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Google_Looker_Studio-4285F4?style=flat-square&logo=google&logoColor=white" alt="Looker Studio" />
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=google&logoColor=white" alt="Looker Studio" />
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
   <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" alt="Google Sheets" />
 </p>
@@ -67,15 +69,13 @@ Combines rigorous computational foundations—spanning relational database theor
 
 ### Data Analytics & Methodological Foundations
 
-The following matrix highlights the operational theories and analytical frameworks implemented across production and sandbox environments:
-
 | Domain Layer | Theoretical Paradigm | Technical Framework & Tooling | Production Deliverables |
 | :--- | :--- | :--- | :--- |
 | **Exploratory Analytics** | Taksonomi Analitik (Descriptive to Prescriptive), Siklus CRISP-DM, Skala Pengukuran Data | Problem Framing, Root Cause Analysis, Audit Variabel | Dokumen rumusan analitik bisnis dan kamus data operasional |
 | **Data Wrangling** | Relational Algebra, Data Normalization, Sanitasi & Imputasi Outlier | Spreadsheet Automation, Vectorized Transformations | Dataset terstandardisasi dan model agregasi parametrik |
 | **Relational Database** | RDBMS Architecture, Teori Himpunan (Set Theory), Integritas Referensial | Structured Query Language (SQL), CTE, Multi-Table Joins | Skrip kueri modular dan skema relasional teroptimasi |
 | **Advanced Querying** | Kalkulasi Partisi Relasional, Dynamic Windowing Logic, Time-Series Grouping | Advanced SQL (`OVER`, `PARTITION BY`, Cumulative/Lag Operations) | Pipeline metrik performa historis dan analisis kohort |
-| **Business Intelligence** | Gestalt Perception, Arsitektur Star & Snowflake Schema, Hierarki KPI | Power BI, Looker Studio, Relational Cardinality Modeling | Eksekutif dashboard interaktif dengan kemampuan drill-down |
+| **Business Intelligence** | Gestalt Perception, Arsitektur Star & Snowflake Schema, Hierarki KPI | Power BI, Tableau, Looker Studio, Relational Cardinality Modeling | Eksekutif dashboard interaktif dengan kemampuan drill-down |
 | **Web Engineering** | Client-Server Architecture, RESTful Protocol, Reactive Component Trees | React, Node.js, TailwindCSS, State Management | Antarmuka aplikasi berbasis web terintegrasi dan sistem pelaporan |
 
 ---
