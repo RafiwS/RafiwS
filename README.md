@@ -1,133 +1,126 @@
 <div align="center">
+  <!-- Dynamic Gradient Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:1e3a8a,100:0284c7&height=210&section=header&text=ANANDA%20WIDI%20ALRAFI&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=INFORMATION%20TECHNOLOGY%20%E2%80%A2%20DATA%20ANALYTICS%20%E2%80%A2%20BUSINESS%20INTELLIGENCE&descSize=15&descColor=38bdf8&descAlignY=66&stroke=38bdf8&strokeWidth=1" width="100%" alt="Header Banner" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:1e3a8a,100:06b6d4&height=240&section=header&text=ANANDA%20WIDI%20ALRAFI&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Turning%20raw%20data%20into%20decisions%20%E2%9A%A1&descSize=18&descColor=67e8f9&descAlignY=60" width="100%" alt="Header" />
+  <!-- Animated Professional Subtitle -->
+  <a href="https://github.com/RafiwS">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Information+Technology+Undergraduate+at+ITS+Surabaya;End-to-End+Data+Analytics+%26+Business+Intelligence;SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI+%E2%80%A2+Tableau+%E2%80%A2+Looker+Studio;Applied+Machine+Learning+%26+Artificial+Intelligence;Active+Leader+in+Campus+Organizations+%26+Tech+Initiatives" alt="Typing SVG" />
+  </a>
 
-<a href="https://github.com/RafiwS">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=820&height=45&lines=%F0%9F%9A%80+IT+Undergrad+%40+ITS+Surabaya+(Class+of+2024);%F0%9F%93%8A+Data+Analytics+%E2%80%A2+Business+Intelligence;%F0%9F%A7%A0+Applied+Machine+Learning+%26+AI;%E2%9A%99%EF%B8%8F+SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI+%E2%80%A2+Tableau;%F0%9F%91%A5+Campus+Leader+%26+Event+Operator" alt="Typing SVG" />
-</a>
+  <br/><br/>
 
-<br/><br/>
-
-<a href="https://linkedin.com/in/anandawidialrafi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:rafiwsbusiness@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.its.ac.id/it/"><img src="https://img.shields.io/badge/ITS-Surabaya-005596?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=RafiwS&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-
+  <!-- Contact & Network Badges -->
+  <p align="center">
+    <a href="https://linkedin.com/in/anandawidialrafi">
+      <img src="https://img.shields.io/badge/LINKEDIN-ANANDA%20WIDI%20ALRAFI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="mailto:rafiwsbusiness@gmail.com">
+      <img src="https://img.shields.io/badge/GMAIL-RAFIWSBUSINESS%40GMAIL.COM-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    &nbsp;
+    <a href="https://www.its.ac.id/it/">
+      <img src="https://img.shields.io/badge/INSTITUTION-ITS%20SURABAYA-005596?style=for-the-badge&logo=google-scholar&logoColor=white" alt="ITS Surabaya" />
+    </a>
+  </p>
 </div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🖥️ `whoami`
+### EXECUTIVE SUMMARY
 
-```bash
-$ whoami
-> ananda_widi_alrafi
+Undergraduate student in **Information Technology at Institut Teknologi Sepuluh Nopember (ITS)** (Cohort 2024). Focused on architecting end-to-end data analytics pipelines, interactive business intelligence dashboards, and applied machine learning models for decision-making. 
 
-$ cat profile.json
-{
-  "role"       : "Information Technology Undergraduate",
-  "university" : "Institut Teknologi Sepuluh Nopember (ITS)",
-  "faculty"    : "FTEIC · Dept. of Information Technology",
-  "location"   : "Surabaya, Indonesia 🇮🇩",
-  "focus"      : ["Data Analytics", "Business Intelligence", "Applied ML/AI"],
-  "mission"    : "Build end-to-end pipelines that turn data into decisions",
-  "status"     : "Open to internships & collaborations 🟢"
-}
-```
+Bridges quantitative academic foundations—including relational database systems, SQL query optimization, and statistical tracking—with practical industry analytics training and strategic organizational leadership.
 
-<br/>
+| Attribute | Specification |
+| :--- | :--- |
+| **Academic Institution** | Institut Teknologi Sepuluh Nopember (ITS), Surabaya |
+| **Faculty & Department** | Faculty of Intelligent Electrical and Informatics Technology (FTEIC) — Dept. of Information Technology |
+| **Core Specializations** | Data Analytics, Business Intelligence, Applied AI & Machine Learning, Relational Databases |
+| **Analytical Stack** | SQL, Python, Power BI, Tableau, Google Looker Studio, Google Colab, Microsoft Excel, Google Sheets |
+| **Leadership Profile** | Active Organizational Contributor, Cross-Functional Project Execution & Strategic Event Operations |
+| **Direct Inquiries** | `rafiwsbusiness@gmail.com` |
 
-## ⚡ Tech Arsenal
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<div align="center">
+### TECHNICAL ARSENAL & ECOSYSTEM
 
-**Languages & Databases**
+#### Core Programming, Query & Scripting Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,postgres,mysql&theme=dark" />
+#### Business Intelligence, Visual Analytics & Spreadsheet Modeling
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Looker Studio" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets" />
+</p>
 
-**BI, Analytics & Spreadsheets**
+#### Artificial Intelligence, Machine Learning & Cloud Notebooks
+<p align="left">
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+</p>
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-**AI / ML & Notebooks**
+### DATA ANALYTICS & AI METHODOLOGY
 
-<img src="https://skillicons.dev/icons?i=sklearn,pandas,numpy,jupyter&theme=dark" />
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+Comprehensive theoretical and operational framework mastered across intensive data analytics training and academic coursework:
 
-</div>
+| Phase & Competency | Theoretical Foundations | Applied Methodology & Tooling | Core Deliverables |
+| :--- | :--- | :--- | :--- |
+| **01. Data Exploration & Framing** | Analytics Taxonomy (Descriptive, Diagnostic, Predictive, Prescriptive), CRISP-DM Lifecycle, Measurement Scales | Business Problem Framing, Root Cause Analysis (5 Whys), Hypothesis Generation, Variable Auditing | Structured Problem Statements, KPI Hierarchies & Data Dictionaries |
+| **02. Spreadsheet Engineering** | Relational Algebra Basics, Data Normalization, Outlier Imputation, Descriptive & Inferential Statistics | Microsoft Excel & Google Sheets (`XLOOKUP`, `INDEX/MATCH`, Array Formulas, Conditional Aggregations, Pivot Tables) | Sanitized Master Datasets, Statistical Summaries & Automated Tracking Models |
+| **03. Relational Database & SQL** | RDBMS Architecture, Entity & Referential Integrity, Set Theory & Multi-Dimensional Table Joins | Intermediate-to-Advanced SQL, Common Table Expressions (CTEs), Subqueries, Filtering & Complex Aggregations | Modular SQL Scripts, Normalized Database Schemas & Query Pipelines |
+| **04. Logical & Window Analytics** | Relational Partitioning, Dynamic Windowing Logic, Time-Series Analysis & Customer Cohort Theory | SQL Window Functions (`OVER`, `PARTITION BY`, `LAG/LEAD`, `RANK`), RFM Segmentation, Rolling Metrics | Historical Performance Models, Retention Cohorts & Anomaly Detection Queries |
+| **05. Business Intelligence & Visuals** | Gestalt Visual Perception, Star & Snowflake Schema Modeling, Executive KPI Layering | Power BI (DAX & Data Modeling), Tableau, Google Looker Studio, Cross-Filtering & Parameterized Controls | Interactive Executive Dashboards, Drill-Down Reports & Real-Time KPI Monitors |
+| **06. Applied AI & Machine Learning** | Supervised & Unsupervised Learning, Feature Engineering, Model Evaluation Metrics & Hyperparameter Tuning | Python (`Pandas`, `NumPy`, `Scikit-Learn`) executed in Google Colab & Jupyter Environments | Predictive Analytics Pipelines, Classification/Regression Models & Clustering Workflows |
+| **07. Strategic Data Storytelling** | Minto Pyramid Principle, Bottom-Line-Up-Front (BLUF) Synthesis, Risk & Business Impact Evaluation | Executive Technical Briefing, Actionable Insight Generation, End-to-End Portfolio Documentation | Comprehensive Case Study Repositories & Strategic Business Recommendations |
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🧭 Data Pipeline I Run
+### APPLIED ANALYTICS & AI TECHNICAL BLUEPRINT
 
-```mermaid
-flowchart LR
-    A[🧩 Frame the Problem] --> B[🧹 Clean & Wrangle]
-    B --> C[🗄️ SQL Modeling]
-    C --> D[📈 BI Dashboards]
-    C --> E[🤖 ML Models]
-    D --> F[🎯 Business Decision]
-    E --> F
-```
+Structured breakdown of mastered technical capabilities across the analytics and intelligence lifecycle:
 
-<details>
-<summary><b>🔬 Full methodology breakdown (click to expand)</b></summary>
+```yaml
+End_to_End_Data_and_AI_Mastery:
+  01_Spreadsheet_and_Data_Wrangling:
+    Tools: [Microsoft Excel, Google Sheets]
+    Capabilities:
+      - Data Sanitization, Deduplication & Missing Value Imputation
+      - Advanced Lookup Logic (XLOOKUP, VLOOKUP, INDEX/MATCH)
+      - Dynamic Pivot Tables, Slicers & Automated Reporting Templates
 
-<br/>
+  02_Relational_Databases_and_SQL_Analytics:
+    Tools: [PostgreSQL, MySQL, BigQuery SQL]
+    Capabilities:
+      - Complex Multi-Table Joins, Subqueries & Common Table Expressions (CTEs)
+      - Analytical Window Functions (ROW_NUMBER, RANK, DENSE_RANK, LAG, LEAD)
+      - Cohort Retention Modeling, RFM Segmentation & Revenue Trend Aggregation
 
-| Phase | What I Do | Tools |
-| :--- | :--- | :--- |
-| **01 · Framing** | CRISP-DM, 5 Whys, KPI hierarchies, data dictionaries | Structured problem statements |
-| **02 · Spreadsheets** | Cleaning, imputation, pivots, automated trackers | Excel, Google Sheets (`XLOOKUP`, `INDEX/MATCH`) |
-| **03 · SQL** | Joins, CTEs, subqueries, normalized schemas | PostgreSQL, MySQL, BigQuery |
-| **04 · Window Analytics** | Cohorts, RFM, rolling metrics, anomaly queries | `OVER`, `PARTITION BY`, `LAG/LEAD`, `RANK` |
-| **05 · BI** | Star schema, DAX, drill-downs, parameters | Power BI, Tableau, Looker Studio |
-| **06 · AI / ML** | Feature engineering, regression, classification, clustering | Pandas, NumPy, Scikit-Learn, Colab |
-| **07 · Storytelling** | Minto Pyramid, BLUF, actionable recommendations | Executive briefings & case studies |
+  03_Business_Intelligence_and_Dashboard_Design:
+    Tools: [Microsoft Power BI, Tableau, Google Looker Studio]
+    Capabilities:
+      - Star Schema Data Modeling & Cardinality Management
+      - Custom Calculated Fields, DAX Measures & Dynamic Parameters
+      - Executive Storytelling Dashboards with Interactive Drill-Downs
 
-</details>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=RafiwS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=38bdf8&include_all_commits=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafiwS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee" />
-
-<img src="https://streak-stats.demolab.com?user=RafiwS&theme=tokyonight&hide_border=true&background=0d1117&ring=22d3ee&fire=38bdf8&currStreakLabel=22d3ee" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RafiwS&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=22d3ee&line=38bdf8&point=ffffff&area=true" width="100%" />
-
-</div>
-
-<br/>
-
-## 🏆 Featured Projects
-
-> 📌 *Pin your best repos here. Suggested format below.*
-
-| Project | Stack | Impact |
-| :--- | :--- | :--- |
-| 📊 **Executive Sales Dashboard** | Power BI · DAX · SQL | *Add a metric, e.g. "cut reporting time by 60%"* |
-| 🤖 **Customer Churn Predictor** | Python · Scikit-Learn | *Add accuracy / F1 score* |
-| 🗄️ **Cohort Retention Analysis** | PostgreSQL · Window Functions | *Add key insight* |
-
-<br/>
-
-## 🤝 Let's Build Something
-
-<div align="center">
-
-**Open to data analytics internships, BI projects, and ML collaborations.**
-
-<a href="mailto:rafiwsbusiness@gmail.com"><img src="https://img.shields.io/badge/📩_rafiwsbusiness@gmail.com-0f172a?style=for-the-badge" /></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,60:1e3a8a,100:020617&height=140&section=footer" width="100%" />
-
-</div>
+  04_Python_Analytics_and_Machine_Learning:
+    Tools: [Python, Google Colab, Jupyter, Pandas, NumPy, Scikit-Learn]
+    Capabilities:
+      - Exploratory Data Analysis (EDA) & Statistical Feature Engineering
+      - Supervised Learning (Regression & Classification Models)
+      - Unsupervised Learning (Clustering) & Applied AI Prototyping
