@@ -31,7 +31,7 @@
 
 Undergraduate student in **Information Technology at Institut Teknologi Sepuluh Nopember (ITS)** (Cohort 2024). Focused on architecting data analytics pipelines, business intelligence dashboards, applied machine learning models, and modern full-stack web applications. 
 
-Bridges rigorous academic engineering foundations—including database systems, big data lakehouses, and network security—with practical industry analytics and strategic leadership across university organizations.
+Bridges rigorous academic engineering foundations including database systems, big data lakehouses, and network security with practical industry analytics and strategic leadership across university organizations.
 
 | Attribute | Specification |
 | :--- | :--- |
