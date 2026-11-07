@@ -1,23 +1,13 @@
 <div align="center">
-  <!-- Dynamic Gradient Header Banner (Adaptive for Light & Dark Mode) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:1e3a8a,100:0284c7&height=210&section=header&text=ANANDA%20WIDI%20ALRAFI&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=INFORMATION%20TECHNOLOGY%20%E2%80%A2%20DATA%20ANALYTICS%20%E2%80%A2%20BUSINESS%20INTELLIGENCE&descSize=15&descColor=38bdf8&descAlignY=66&stroke=38bdf8&strokeWidth=1" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:1e3a8a,100:0369a1&height=210&section=header&text=ANANDA%20WIDI%20ALRAFI&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=INFORMATION%20TECHNOLOGY%20%E2%80%A2%20DATA%20ANALYTICS%20%E2%80%A2%20BUSINESS%20INTELLIGENCE&descSize=15&descColor=e0f2fe&descAlignY=66&stroke=ffffff&strokeWidth=1" />
-    <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:1e3a8a,100:0284c7&height=210&section=header&text=ANANDA%20WIDI%20ALRAFI&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=INFORMATION%20TECHNOLOGY%20%E2%80%A2%20DATA%20ANALYTICS%20%E2%80%A2%20BUSINESS%20INTELLIGENCE&descSize=15&descColor=38bdf8&descAlignY=66&stroke=38bdf8&strokeWidth=1" width="100%" alt="Header Banner" />
-  </picture>
 
-  <!-- Animated Professional Subtitle (Adaptive for Light & Dark Mode) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0284c7&height=230&section=header&text=ANANDA%20WIDI%20ALRAFI&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=INFORMATION%20TECHNOLOGY%20%E2%80%A2%20DATA%20ANALYTICS%20%E2%80%A2%20BUSINESS%20INTELLIGENCE&descSize=15&descColor=e0f2fe&descAlignY=58" width="100%" alt="Ananda Widi Alrafi Header Banner" />
+
   <a href="https://github.com/RafiwS">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Information+Technology+Undergraduate+at+ITS+Surabaya;End-to-End+Data+Analytics+%26+Business+Intelligence;SQL+%E2%80%A2+Python+%E2%80%A2+Google+Colab+%E2%80%A2+Power+BI+%E2%80%A2+Tableau;Applied+Machine+Learning+%26+Simple+Web+Development+(React);Active+Leader+in+Campus+Organizations+%26+Tech+Initiatives" />
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1000&color=0369A1&center=true&vCenter=true&width=750&lines=Information+Technology+Undergraduate+at+ITS+Surabaya;End-to-End+Data+Analytics+%26+Business+Intelligence;SQL+%E2%80%A2+Python+%E2%80%A2+Google+Colab+%E2%80%A2+Power+BI+%E2%80%A2+Tableau;Applied+Machine+Learning+%26+Simple+Web+Development+(React);Active+Leader+in+Campus+Organizations+%26+Tech+Initiatives" />
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=0284C7&center=true&vCenter=true&width=750&lines=Information+Technology+Undergraduate+at+ITS+Surabaya;End-to-End+Data+Analytics+%26+Business+Intelligence;SQL+%E2%80%A2+Python+%E2%80%A2+Google+Colab+%E2%80%A2+Power+BI+%E2%80%A2+Tableau;Applied+Machine+Learning+%26+Simple+Web+Development+(React);Active+Leader+in+Campus+Organizations+%26+Tech+Initiatives" alt="Typing SVG" />
-    </picture>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1000&color=0284C7&center=true&vCenter=true&width=750&lines=Information+Technology+Undergraduate+at+ITS+Surabaya;End-to-End+Data+Analytics+%26+Business+Intelligence;SQL+%E2%80%A2+Python+%E2%80%A2+Google+Colab+%E2%80%A2+Power+BI+%E2%80%A2+Tableau;Applied+Machine+Learning+%26+Simple+Web+Development+(React);Active+Leader+in+Campus+Organizations+%26+Tech+Initiatives" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- Contact & Network Badges -->
   <p align="center">
     <a href="https://linkedin.com/in/anandawidialrafi">
       <img src="https://img.shields.io/badge/LINKEDIN-ANANDA%20WIDI%20ALRAFI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -31,6 +21,7 @@
       <img src="https://img.shields.io/badge/INSTITUTION-ITS%20SURABAYA-005596?style=for-the-badge&logo=google-scholar&logoColor=white" alt="ITS Surabaya" />
     </a>
   </p>
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
